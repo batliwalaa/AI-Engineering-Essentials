@@ -1,0 +1,34 @@
+# Large Language Model (LLM) related packages
+openai
+anthropic
+transformers
+diffusers
+accelerate
+bitsandbytes
+evaluate
+
+# Machine learning libraries
+scikit-learn
+
+# Deep learning libraries
+torch
+torchvision
+torchaudio
+tf-keras
+
+# datasets from huggingface
+datasets
+
+# User interface frameworks
+streamlit
+gradio
+
+# Environment and API key management
+python-dotenv
+
+# Jupyter notebook related libraries
+ipykernel
+ipywidgets
+
+# Agno and Tavily
+tavily-python

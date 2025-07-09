@@ -1,0 +1,7 @@
+# Environment files
+.env
+ai_env/
+venv
+
+# lecture assets
+assets/
