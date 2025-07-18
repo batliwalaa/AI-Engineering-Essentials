@@ -6,6 +6,7 @@ diffusers
 accelerate
 bitsandbytes
 evaluate
+google-genai
 
 # Machine learning libraries
 scikit-learn
@@ -32,3 +33,9 @@ ipywidgets
 
 # Agno and Tavily
 tavily-python
+
+# SerpApi
+google-search-results
+
+langchain 
+langchain-google-genai
